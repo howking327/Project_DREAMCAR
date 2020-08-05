@@ -1,7 +1,7 @@
 # Project_DREAMCAR
 
 운전하는 상황에서 감정분석 및 졸음운전에 따른 음악추천으로 운전 집중도 향상과 다양한 음악 제공을 위한 딥러닝 모델 팀 프로젝트입니다.  
-(2020/04/05 ~ 2020/06/05)
+프로젝트 기간 : (2020/04/05 ~ 2020/06/05)
 
 ### ▶ Concept
 운전자의 음악 감상 비중이 늘어나고 큐레이션 서비스가 확대되는 상황에 따라 운전자가 운전 중 직접 조작하는 단계를 줄이고 졸음 운전으로부터 
@@ -11,8 +11,9 @@
 - **Language** : Python  
 - **IDE** : Pycharm / Colab / Jupyter Notebook
 - **Detecting Tool** : OpenCV / Dlib
+- **Library** : Tensorflow / Keras / Scikit-learn / Beautifulsoup
 - **Web Tool** : HTML / CSS / JS
-- **Framework** : Tensorflow / Keras / Scikit-learn / Flask(Web Framework) 
+- **Web Framework** : Flask
 
 ## Collaborators
 - [howking327](https://github.com/howking327)
